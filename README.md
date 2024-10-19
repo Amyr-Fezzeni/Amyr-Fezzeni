@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a full time **Flutter developer**
 
-- 👨‍💻 Portfolio [amyrfezzeni.com](https://amyrfezzeni.com))
+- 👨‍💻 Portfolio [amyrfezzeni.com](https://amyrfezzeni.com)
 
 - 💬 Ask me about **Flutter, Python**
 
