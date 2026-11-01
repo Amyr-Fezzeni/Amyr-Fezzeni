@@ -1,26 +1,59 @@
-<h1 align="center">Hi 👋, I'm Amyr Fezzeni</h1>
-<h3 align="center">A passionate Flutter & Python developer from Tunisia</h3>
+<h1 align="center">Hi, I'm Amyr Fezzeni 👋</h1>
+<h3 align="center">Senior Flutter developer · I build production mobile apps, end to end</h3>
 
-- 🔭 I’m currently working as a full time **Flutter developer**
-
-- 👨‍💻 Portfolio [amyrfezzeni.com](https://amyrfezzeni.com)
-
-- 💬 Ask me about **Flutter, Python**
-
-- 📫 How to reach me **amyrfezzeni@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amyr-fezzeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amyr-fezzeni" height="30" width="40" /></a>
-<a href="https://fb.com/amyr.fezzeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amyr.fezzeni" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://amyrfezzeni.com"><img src="https://img.shields.io/badge/Portfolio-amyrfezzeni.com-B53A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://calendly.com/amyrfezzeni/30min"><img src="https://img.shields.io/badge/Book_a_free_call-30_min-17140F?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call" /></a>
+  <a href="https://linkedin.com/in/amyr-fezzeni"><img src="https://img.shields.io/badge/LinkedIn-amyr--fezzeni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amyrfezzeni@gmail.com"><img src="https://img.shields.io/badge/Email-amyrfezzeni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amyr-fezzeni&show_icons=true&locale=en&layout=compact" alt="amyr-fezzeni" /></p>
+I'm a **Flutter developer from Tunisia with 5+ years of experience** shipping apps to the App Store and Google Play. I take products from idea to launch: architecture, UI, backend (Django REST, Firebase), payments, maps and real-time features, then deployment and support.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amyr-fezzeni&show_icons=true&locale=en" alt="amyr-fezzeni" /></p>
+- 🚀 **Now:** freelance Senior Flutter Developer, available for new projects
+- 👥 **Before:** Mobile Development Team Lead at LETAFF (2022–2025), Flutter developer at DigitalBundle (2021–2022)
+- 🌍 **Work with:** clients in Europe and North America (France, Canada), remote, overlapping with your hours
+- 📷 **Fun fact:** I spent five years as an artistic photographer before writing code, which is why I care about pixels. [See the photos →](https://amyrfezzeni.com/photography)
 
+## 🛠️ What I build
+
+| | |
+|---|---|
+| 📱 **Mobile apps** | Cross-platform Flutter apps for iOS & Android, from MVP to store release |
+| 💳 **Payments & marketplaces** | Stripe, in-app purchases, payment splits, tips and subscriptions |
+| 🗺️ **Maps & real-time** | Live GPS tracking, route optimisation, nearest-driver matching, chat |
+| 🤖 **AI features** | Document generation, recommendations, assistants |
+| 🌐 **Web & backends** | React sites, Django REST / Flask APIs, Firebase, AWS |
+
+## ⭐ Selected work
+
+| Project | What it is | Highlights |
+|---|---|---|
+| **[My Doc AI](https://amyrfezzeni.com/portfolio)** | AI document generation and management, mobile & web | Cut document creation time by **80%+** |
+| **[Les Cy Solution](https://amyrfezzeni.com/portfolio)** | Salon management platform | **500+** active subscriptions, scheduling time **−70%** |
+| **[Tuxedo](https://amyrfezzeni.com/portfolio)** | 3 connected apps (clients, drivers, venues) for a Canadian client | Nearest-team matching, Stripe with automatic payment splits |
+| **[Les Pigistes](https://amyrfezzeni.com/portfolio)** | Freelance marketplace | **100+** freelancers, **$50K+** in transactions |
+| **[Inbridge](https://amyrfezzeni.com/portfolio)** | Team app with canvas editor & shared templates | Weekly best-image picks shared straight to social media |
+| **[Astro Dating](https://amyrfezzeni.com/portfolio)** | Swipe-and-match dating app | Matches ranked by astrology and personality type |
+
+➡️ All 14 case studies: **[amyrfezzeni.com/portfolio](https://amyrfezzeni.com/portfolio)**
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,django,flask,python,react,ts,nodejs,aws,gcp,git,figma,postman&perline=7" alt="Tech stack" />
+</p>
+
+**Also:** Stripe · In-app purchases · Google Maps & Places · State management (Bloc, Provider, Riverpod) · Google Analytics & Search Console
+
+## 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=amyr-fezzeni&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+---
+
+<p align="center"><b>Have an app idea?</b> <a href="https://calendly.com/amyrfezzeni/30min">Book a free 30-minute call</a>. I'll tell you honestly what it takes to build it.</p>
