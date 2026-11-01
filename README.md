@@ -48,11 +48,6 @@ I'm a **Flutter developer from Tunisia with 5+ years of experience** shipping ap
 
 **Also:** Stripe · In-app purchases · Google Maps & Places · State management (Bloc, Provider, Riverpod) · Google Analytics & Search Console
 
-## 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=amyr-fezzeni&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
 
 ---
 
